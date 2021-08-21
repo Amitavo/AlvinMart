@@ -4,7 +4,7 @@ import AlvinLogo from "../img/AlvinLogo.png";
 
 const Header = () => {
   return (
-    <div>
+    <div className="white">
       <div className="row border border-danger border-5 border-bottom-0 border-end-0">
         <div className="col-3 p-2 ps-4">
           <p className="m-0 p-0">D-34, Harijan Basti, Masdoorpur, </p>

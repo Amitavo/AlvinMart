@@ -3,7 +3,7 @@ import { FaWhatsapp } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className="border border-success border-5 border-start-0 border-end-0 p-2 text-center">
+    <div className="border border-success border-5 border-start-0 border-end-0 p-2 text-center white">
       <h2 className="fw-bolder text-danger ">
         FREE HOME DELIVERY IN VASANT KUNJ
       </h2>
